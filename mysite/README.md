@@ -5,6 +5,7 @@ I've been following this [tutorial](link:https://docs.djangoproject.com/en/3.1/i
 - Completed part 1
 - Completed part 2
 - Completed part 3
+- Halfway thru the "Write a minimal form" section of part 4
 
 ## To Run
 
