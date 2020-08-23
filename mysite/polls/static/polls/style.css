@@ -1,0 +1,52 @@
+
+body {
+	background-color: 272121;
+	font-family: "Trebuchet MS";
+	color: ECECEC;
+}
+
+
+h1 {
+	color: f6e9e9;
+	background-color: 363333;
+	font-family: "Trebuchet MS";
+	text-align: center;
+	padding: 10px;
+}
+
+h2 {
+	display: block;
+	color: f6e9e9;
+	font-family: "Trebuchet MS";
+	text-align: left;
+	padding: 0px;
+	margin-block-end: 0.5em;
+}
+
+.header {
+	color: f6e9e9;
+	font-family: "Trebuchet MS";
+	text-align: center;
+	padding: 10px;
+	size: 35px;
+
+}
+
+ul {
+	color: f6e9e9;
+	text-align: left;
+	padding: 5px;
+	margin-left: 35px;
+}
+]
+
+a:link {
+	color: f6e9e9;
+}
+
+a:visited {
+	color: e16428;
+}
+
+
+
